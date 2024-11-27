@@ -1,0 +1,12 @@
+Microsoft Windows [Version 10.0.20348.2582]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\wqu>nc -lvp 4444
+listening on [any] 4444 ...
+Warning: forward host lookup failed for HH312-01.monmouth.edu: h_errno 11001: HOST_NOT_FOUND
+connect to [10.1.13.178] from HH312-01.monmouth.edu [10.1.12.139] 65316: HOST_NOT_FOUND
+
+C:\Users\wqu>nc -lvp 4444
+listening on [any] 4444 ...
+Warning: forward host lookup failed for HH312-01.monmouth.edu: h_errno 11001: HOST_NOT_FOUND
+connect to [10.1.13.178] from HH312-01.monmouth.edu [10.1.12.139] 65347: HOST_NOT_FOUND

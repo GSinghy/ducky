@@ -1,0 +1,10 @@
+1.    cd "C:\Users\G. Singh (CS-599)\Desktop"
+
+
+2.    Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+
+
+3.    .\send_email.ps1
+
+
+Viola!

